@@ -1,4 +1,4 @@
-# Pulling Away From Us
+# Pulling Away From Us, Vol. 2
 
 ---
 
@@ -10,12 +10,12 @@
 
 | Field | Details |
 |-------|---------|
-| **Title** | Pulling Away From Us |
+| **Title** | Pulling Away From Us, Vol. 2 |
 | **Written By** | [Abu Sayed](https://abusayed.com.bd/) |
 | **Written On** | June 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/pulling-away-from-us/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Pulling Away From Us](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/pulling-away-from-us/) |
+| **Get License** | [License this song: Pulling Away From Us, Vol. 2](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/pulling-away-from-us/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I feel the heat between us filling up the room
+> Your eyes are glowing in the midnight gloom
+> Don't let the morning steal what we've begun
+> I want to taste you till the rising of the sun
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
@@ -107,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `e035a6d4e95cc33951e7f72f25d110ed51d369660b0236553002cd9feec27496` |
 | **Timestamp** | June 10, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
