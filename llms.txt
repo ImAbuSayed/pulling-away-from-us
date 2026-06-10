@@ -15,7 +15,7 @@
 | **Written On** | June 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/pulling-away-from-us/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Pulling Away From Us, Vol. 2](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/pulling-away-from-us/) |
+| **Get License** | [Obtain a Music License for Pulling Away From Us, Vol. 2](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/pulling-away-from-us/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -39,6 +39,12 @@
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
+
+---
+
+## 🔗 Song Links
+
+- [Telegram](https://t.me/AbuSayedMusic/2947)
 
 ---
 
